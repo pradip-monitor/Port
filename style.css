@@ -474,9 +474,8 @@ margin:30px;
     height: 100%;
 }
 .linksft a{
-    text-decoration: none;
-    color: #555555;
-    margin: 20px;
+    color: white;
+    margin:30px;   
 }
 .linksft a :hover{
     color: #fee243;
