@@ -47,10 +47,11 @@ scroll-behavior: smooth;
     color: white;
 }
 .info div:hover{
-    background-color: rgb(100, 100, 100);
+    background-color: red;
     color: white;
     border-radius: 4px;
 }
+
 #check{
     display: none;
 }
